@@ -20,6 +20,7 @@ So far, the following **4 projects** have been completed. As I continue building
 | 2           | **Weather App**          | A sleek weather application that displays real-time weather data fetched via API.                |
 | 3           | **ToDoList**             | A simple and functional to-do list app for managing daily tasks with add, delete, and edit options.|
 | 4           | **QR Code Generator**    | A tool for generating QR codes from user input, allowing easy sharing of text or links.          |
+| 5           | **Generate-password**  | A tool that generates random and secure passwords based on user-defined criteria.                |
 
 ---
 
