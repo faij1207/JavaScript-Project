@@ -21,6 +21,7 @@ So far, the following **4 projects** have been completed. As I continue building
 | 3           | **ToDoList**             | A simple and functional to-do list app for managing daily tasks with add, delete, and edit options.|
 | 4           | **QR Code Generator**    | A tool for generating QR codes from user input, allowing easy sharing of text or links.          |
 | 5           | **Generate-password**  | A tool that generates random and secure passwords based on user-defined criteria.                |
+| 6           | **Daily-Quote**        | A random quote generator displaying quotes with authors, with an option to share directly on Twitter. |
 
 ---
 
