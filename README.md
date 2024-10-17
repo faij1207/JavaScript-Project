@@ -23,6 +23,7 @@ So far, the following **4 projects** have been completed. As I continue building
 | 5           | **Generate-password**  | A tool that generates random and secure passwords based on user-defined criteria.                |
 | 6           | **Daily-Quote**        | A random quote generator displaying quotes with authors, with an option to share directly on Twitter. |
 | 7           | **Calculator**           | A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division. |
+| 8           | **Stopwatch**          | A functional stopwatch with start, stop, and reset features, allowing users to track time accurately. |
 
 ---
 
