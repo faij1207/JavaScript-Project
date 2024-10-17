@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **4 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **9 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -24,6 +24,7 @@ So far, the following **4 projects** have been completed. As I continue building
 | 6           | **Daily-Quote**        | A random quote generator displaying quotes with authors, with an option to share directly on Twitter. |
 | 7           | **Calculator**           | A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division. |
 | 8           | **Stopwatch**          | A functional stopwatch with start, stop, and reset features, allowing users to track time accurately. |
+| 9           | **Toast Notification** | A customizable toast notification system that displays temporary alerts or messages on the screen. |
 
 ---
 
