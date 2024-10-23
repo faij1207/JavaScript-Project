@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **11 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **13 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -27,6 +27,8 @@ So far, the following **11 projects** have been completed. As I continue buildin
 | 9           | **Toast Notification** | A customizable toast notification system that displays temporary alerts or messages on the screen. |
 | 10          | **Password Toggle**    | A simple feature that allows users to toggle password visibility in input fields for ease of use. |
 | 11          | **Password-Strength**| A dynamic indicator that visually displays the strength of a password based on user input criteria.|
+| 12          | **DigitalWatch**      | A real-time digital watch displaying the current time (hours, minutes, and seconds) along with the current date. |
+| 13          | **Portfolio**          | A personal portfolio website showcasing projects, skills, and contact information in a clean and responsive layout. |
 
 ---
 
