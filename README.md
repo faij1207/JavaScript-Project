@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **13 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **14 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -29,6 +29,7 @@ So far, the following **13 projects** have been completed. As I continue buildin
 | 11          | **Password-Strength**| A dynamic indicator that visually displays the strength of a password based on user input criteria.|
 | 12          | **DigitalWatch**      | A real-time digital watch displaying the current time (hours, minutes, and seconds) along with the current date. |
 | 13          | **Portfolio**          | A personal portfolio website showcasing projects, skills, and contact information in a clean and responsive layout. |
+| 14          | **Age Calculator**     | A tool that calculates age based on the user's input of birth date, showing years, months, and days. |
 
 ---
 
