@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cryptocurrency Website</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <nav>
+        <img src="images/logo.png" class="logo" />
+        <ul>
+          <li><a href="#">Market</a></li>
+          <li><a href="#">Features</a></li>
+          <li><a href="#">White Papers</a></li>
+          <li><a href="#">About Us</a></li>
+        </ul>
+        <a href="#" class="btn">EN</a>
+      </nav>
+      <div class="content">
+        <h1>
+          BUY & <br />
+          SELL <span>Crypto</span>
+        </h1>
+        <p>
+          Trade the world’s most popular digital currencies with leverage and
+          24/7 <br />availability: Bitcoin | Ethereum | Dogecoin Cash
+        </p>
+        <a href="#" class="btn">EXPLORE MORE</a>
+      </div>
+      <div class="coin-list">
+        <div class="coin">
+          <img src="images/bitcoin.png" />
+          <div>
+            <h3>$00</h3>
+            <p>Bitcoin</p>
+          </div>
+        </div>
+        <div class="coin">
+          <img src="images/ethereum.png" />
+          <div>
+            <h3>$00</h3>
+            <p>Ethereum</p>
+          </div>
+        </div>
+        <div class="coin">
+          <img src="images/dogecoin.png" />
+          <div>
+            <h3>$00</h3>
+            <p>Dogecoin</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script >
+    document.addEventListener("DOMContentLoaded", function() {
+        const coins = [
+            { name: "Bitcoin", price: "$50,000", img: "images/bitcoin.png" },
+            { name: "Ethereum", price: "$4,000", img: "images/ethereum.png" },
+            { name: "Dogecoin", price: "$0.25", img: "images/dogecoin.png" }
+        ];
+
+        const coinList = document.querySelector(".coin-list");
+        coinList.innerHTML = "";
+
+        coins.forEach(coin => {
+            const coinDiv = document.createElement("div");
+            coinDiv.classList.add("coin");
+
+            const img = document.createElement("img");
+            img.src = coin.img;
+
+            const coinInfo = document.createElement("div");
+
+            const price = document.createElement("h3");
+            price.textContent = coin.price;
+
+            const name = document.createElement("p");
+            name.textContent = coin.name;
+
+            coinInfo.appendChild(price);
+            coinInfo.appendChild(name);
+
+            coinDiv.appendChild(img);
+            coinDiv.appendChild(coinInfo);
+
+            coinList.appendChild(coinDiv);
+        });
+    });
+    </script>
+  </body>
+</html>
