@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **17 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **18 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -33,6 +33,7 @@ So far, the following **17 projects** have been completed. As I continue buildin
 | 15          | **Horizontal Scroll Image Gallery** | An interactive image gallery with horizontal scrolling, allowing users to navigate through images seamlessly. |
 | 16          | **Coming Soon Page**   | A responsive "Coming Soon" landing page with a countdown timer and form for updates. |
 | 17          | **Cryptocurrency Website** | An initial cryptocurrency website built using HTML, CSS, and JavaScript, featuring basic information and interactive elements. |
+| 18          | **Pop-Up**             | A customizable pop-up modal that displays messages or alerts with options for user interaction. |
 
 ---
 
