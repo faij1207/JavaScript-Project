@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Select menu Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+        <div class="selector">
+            <div id="selectField">
+                <p id="selectText">Select Social Media</p>
+                <img src="assets/arrow.png" id="arrowIcon">
+            </div>
+            <ul id="list" class="hide">
+                <li class="option">
+                    <img src="assets/facebook.png" alt="">
+                    <p>Facebook</p>
+                </li>
+                <li class="option">
+                    <img src="assets/instagram.png" alt="">
+                    <p>Instagram</p>
+                </li>
+                <li class="option">
+                    <img src="assets/pinterest.png" alt="">
+                    <p>Pinterest</p>
+                </li>
+                <li class="option">
+                    <img src="assets/twitter.png" alt="">
+                    <p>Twitter</p>
+                </li>
+                <li class="option">
+                    <img src="assets/youtube.png" alt="">
+                    <p>Youtube</p>
+                </li>
+                <li class="option">
+                    <img src="assets/whatsapp.png">
+                    <p>Whatsapp</p>
+                </li>
+
+            </ul>
+            
+        </div>
+    </div>
+
+    <script>
+        const selectField = document.getElementById('selectField');
+        const selectText = document.getElementById('selectText');
+        const list = document.getElementById('list');
+        const options = document.querySelectorAll('.option');
+        const arrowIcon = document.getElementById('arrowIcon');
+
+        selectField.addEventListener('click', () => {
+            list.classList.toggle('hide');
+            arrowIcon.classList.toggle('rotate');
+        });
+
+        options.forEach(option => {
+            option.addEventListener('click', () => {
+                selectText.innerHTML = option.querySelector('p').innerHTML;
+                list.classList.toggle('hide');
+                arrowIcon.classList.toggle('rotate');
+            });
+        });
+    </script>
+</body>
+</html>
