@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **19 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **20 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -35,6 +35,7 @@ So far, the following **19 projects** have been completed. As I continue buildin
 | 17          | **Cryptocurrency Website** | An initial cryptocurrency website built using HTML, CSS, and JavaScript, featuring basic information and interactive elements. |
 | 18          | **Pop-Up**             | A customizable pop-up modal that displays messages or alerts with options for user interaction. |
 | 19          | **Custom Side Menu Design** | A sleek and responsive custom side menu with smooth transitions and interactive navigation links. |
+| 20          | **Drag and Drop**      | An interactive feature that allows users to drag and drop elements within a web page.   |
 
 ---
 
