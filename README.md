@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **21 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **22 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -37,6 +37,7 @@ So far, the following **21 projects** have been completed. As I continue buildin
 | 19          | **Custom Side Menu Design** | A sleek and responsive custom side menu with smooth transitions and interactive navigation links. |
 | 20          | **Drag and Drop**      | An interactive feature that allows users to drag and drop elements within a web page.   |
 | 21          | **Progress Bar**       | A dynamic progress bar that visually represents the completion status of a task or process.      |
+| 22          | **Mini Calendar**      | A compact and interactive calendar that displays the current month, highlights the current date, and allows navigation between months. |
 
 ---
 
