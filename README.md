@@ -43,6 +43,7 @@ So far, the following **22 projects** have been completed. As I continue buildin
 | 25          | **Jokes Generator**  | A fun app that generates random dad jokes using an API, with an option to copy or share them.  |
 | 26 | **FAQ** | An interactive FAQ section with expandable and collapsible answers for better user experience. |
 | 27          | **Photo Gallery** | A responsive photo gallery with image fetching functionality, allowing users to browse images smoothly. |
+| 28          | **Feedback UI** | A user-friendly feedback system with a rating feature and a thank-you message upon submission. |
 
 ---
 
