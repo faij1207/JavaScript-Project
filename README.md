@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **37 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **39 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -54,6 +54,7 @@ So far, the following **37 projects** have been completed. As I continue buildin
 | 36          | **Rock Paper Scissors Game** | A fun and interactive game where users can play Rock, Paper, Scissors against the computer.    |
 | 37          | **Random Emoji** | A fun tool that displays random emojis along with their names every time a button is clicked.  |
 | 38          | **Note App**  | A simple note-taking application with features to create, update, and delete notes.           |
+| 39          | **Random Image Generator** | A tool that fetches and displays random images from Unsplash with each button click.           |
 
 ---
 
