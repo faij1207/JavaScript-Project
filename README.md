@@ -41,6 +41,7 @@ So far, the following **22 projects** have been completed. As I continue buildin
 | 23          | **Step Progress Bar**  | A multi-step progress bar that visually tracks the completion of sequential steps in a process. |
 | 24          | **Clock**         | A real-time analog wall clock with hour, minute, and second hands, built using JavaScript and CSS animations. |
 | 25          | **Jokes Generator**  | A fun app that generates random dad jokes using an API, with an option to copy or share them.  |
+| 26 | **FAQ** | An interactive FAQ section with expandable and collapsible answers for better user experience. |
 
 ---
 
