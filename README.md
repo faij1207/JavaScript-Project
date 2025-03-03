@@ -53,6 +53,7 @@ So far, the following **37 projects** have been completed. As I continue buildin
 | 35          | **Temperature-Converter** | A tool to convert temperature between Celsius, Fahrenheit, and Kelvin.                           |
 | 36          | **Rock Paper Scissors Game** | A fun and interactive game where users can play Rock, Paper, Scissors against the computer.    |
 | 37          | **Random Emoji** | A fun tool that displays random emojis along with their names every time a button is clicked.  |
+| 38          | **Note App**  | A simple note-taking application with features to create, update, and delete notes.           |
 
 ---
 
