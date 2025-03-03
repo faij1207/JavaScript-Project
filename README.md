@@ -41,7 +41,7 @@ So far, the following **41 projects** have been completed. As I continue buildin
 | 23          | **Step Progress Bar**  | A multi-step progress bar that visually tracks the completion of sequential steps in a process. |
 | 24          | **Clock**         | A real-time analog wall clock with hour, minute, and second hands, built using JavaScript and CSS animations. |
 | 25          | **Jokes Generator**  | A fun app that generates random dad jokes using an API, with an option to copy or share them.  |
-| 26 | **FAQ** | An interactive FAQ section with expandable and collapsible answers for better user experience. |
+| 26          | **FAQ** | An interactive FAQ section with expandable and collapsible answers for better user experience. |
 | 27          | **Photo Gallery** | A responsive photo gallery with image fetching functionality, allowing users to browse images smoothly. |
 | 28          | **Feedback UI** | A user-friendly feedback system with a rating feature and a thank-you message upon submission. |
 | 29          | **GitHub Profiles** | A web app that allows users to search for GitHub profiles and displays user details dynamically. |
@@ -57,6 +57,7 @@ So far, the following **41 projects** have been completed. As I continue buildin
 | 39          | **Random Image Generator** | A tool that fetches and displays random images from Unsplash with each button click.           |
 | 40          | **Pokédex**   | A web app that fetches and displays Pokémon data using the PokeAPI, including stats and images. |
 | 41          | **Mouse Event** | A project that tracks and displays real-time mouse coordinates on the screen.                |
+| 42          | **Loan Calculator** | A tool to calculate loan repayments based on principal, interest rate, and loan duration.     |
 
 ---
 
