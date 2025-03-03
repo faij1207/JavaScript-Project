@@ -42,6 +42,7 @@ So far, the following **22 projects** have been completed. As I continue buildin
 | 24          | **Clock**         | A real-time analog wall clock with hour, minute, and second hands, built using JavaScript and CSS animations. |
 | 25          | **Jokes Generator**  | A fun app that generates random dad jokes using an API, with an option to copy or share them.  |
 | 26 | **FAQ** | An interactive FAQ section with expandable and collapsible answers for better user experience. |
+| 27          | **Photo Gallery** | A responsive photo gallery with image fetching functionality, allowing users to browse images smoothly. |
 
 ---
 
