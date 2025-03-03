@@ -61,6 +61,7 @@ So far, the following **45 projects** have been completed. As I continue buildin
 | 43          | **BMI Calculator** | A simple tool to calculate Body Mass Index (BMI) based on weight and height inputs.           |
 | 44          | **Counter**   | A simple counter application with increment, decrement, and reset functionality.               |
 | 45          | **Emoji Rating** | A fun rating system using emojis to visually represent user feedback or satisfaction levels.   |
+| 46          | **Dice Roll Simulator** | A simple dice rolling simulator that generates a random number between 1 and 6 on each roll.  |
 
 ---
 
