@@ -49,6 +49,7 @@ So far, the following **32 projects** have been completed. As I continue buildin
 | 31          | **Hidden Search** | An interactive search bar with a toggle feature that expands and collapses smoothly on click. |
 | 32          | **Image Slider** | A smooth image slider with navigation buttons and automatic transition effects for seamless browsing. |
 | 33          | **Weight Converter** | A tool to convert weight between different units such as kilograms, pounds, and ounces.         |
+| 34          | **Tip Calculator**  | A simple calculator to calculate the tip based on bill amount, tip percentage. |
 
 ---
 
