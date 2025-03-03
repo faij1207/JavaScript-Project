@@ -51,6 +51,7 @@ So far, the following **35 projects** have been completed. As I continue buildin
 | 33          | **Weight Converter** | A tool to convert weight between different units such as kilograms, pounds, and ounces.         |
 | 34          | **Tip Calculator**  | A simple calculator to calculate the tip based on bill amount, tip percentage. |
 | 35          | **Temperature-Converter** | A tool to convert temperature between Celsius, Fahrenheit, and Kelvin.                           |
+| 36          | **Rock Paper Scissors Game** | A fun and interactive game where users can play Rock, Paper, Scissors against the computer.    |
 
 ---
 
