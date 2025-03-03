@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **22 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **32 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -47,6 +47,7 @@ So far, the following **22 projects** have been completed. As I continue buildin
 | 29          | **GitHub Profiles** | A web app that allows users to search for GitHub profiles and displays user details dynamically. |
 | 30          | **Heart-trail-animation** | A beautiful animation that creates a trail of hearts following the mouse movement in real-time. |
 | 31          | **Hidden Search** | An interactive search bar with a toggle feature that expands and collapses smoothly on click. |
+| 32          | **Image Slider** | A smooth image slider with navigation buttons and automatic transition effects for seamless browsing. |
 
 ---
 
