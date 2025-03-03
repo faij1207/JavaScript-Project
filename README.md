@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **32 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **35 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -50,6 +50,7 @@ So far, the following **32 projects** have been completed. As I continue buildin
 | 32          | **Image Slider** | A smooth image slider with navigation buttons and automatic transition effects for seamless browsing. |
 | 33          | **Weight Converter** | A tool to convert weight between different units such as kilograms, pounds, and ounces.         |
 | 34          | **Tip Calculator**  | A simple calculator to calculate the tip based on bill amount, tip percentage. |
+| 35          | **Temperature-Converter** | A tool to convert temperature between Celsius, Fahrenheit, and Kelvin.                           |
 
 ---
 
