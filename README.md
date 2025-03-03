@@ -48,6 +48,7 @@ So far, the following **32 projects** have been completed. As I continue buildin
 | 30          | **Heart-trail-animation** | A beautiful animation that creates a trail of hearts following the mouse movement in real-time. |
 | 31          | **Hidden Search** | An interactive search bar with a toggle feature that expands and collapses smoothly on click. |
 | 32          | **Image Slider** | A smooth image slider with navigation buttons and automatic transition effects for seamless browsing. |
+| 33          | **Weight Converter** | A tool to convert weight between different units such as kilograms, pounds, and ounces.         |
 
 ---
 
