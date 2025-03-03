@@ -90,16 +90,13 @@ Stay tuned for more updates!
 
 ---
 
-## ✨ Contributions Welcome
+## ✨ Contributions
 
-Have ideas or improvements for existing projects? Feel free to contribute:
+We welcome improvements, bug fixes, and new mini JavaScript projects! 🚀  
 
-1. **Fork the repository**.
-2. **Create a new branch**.
-3. **Make your changes or add your own mini JavaScript projects**.
-4. **Submit a pull request**.
+Before contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to fork, clone, make changes, and submit pull requests.  
 
-Together, let's make this journey to 100 projects even better!
+Let's build amazing projects together! 💡
 
 ---
 
