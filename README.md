@@ -38,6 +38,7 @@ So far, the following **22 projects** have been completed. As I continue buildin
 | 20          | **Drag and Drop**      | An interactive feature that allows users to drag and drop elements within a web page.   |
 | 21          | **Progress Bar**       | A dynamic progress bar that visually represents the completion status of a task or process.      |
 | 22          | **Mini Calendar**      | A compact and interactive calendar that displays the current month, highlights the current date, and allows navigation between months. |
+| 23          | **Step Progress Bar**  | A multi-step progress bar that visually tracks the completion of sequential steps in a process. |
 
 ---
 
