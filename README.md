@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **50 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **51 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -66,6 +66,7 @@ So far, the following **50 projects** have been completed. As I continue buildin
 | 48          | **Dark Mode Toggle** | A simple toggle switch to enable and disable dark mode for better user experience.             |
 | 49          | **Form Input Wave** | A stylish form input effect where labels animate with a wave effect when typing.               |
 | 50          | **Animated Navigation** | A smooth and interactive navigation bar with animated transitions for an enhanced user experience. |
+| 51          | **Animated Countdown** | A visually engaging countdown timer with smooth animations for better user interaction.        |
 
 ---
 
