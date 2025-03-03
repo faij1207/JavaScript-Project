@@ -55,6 +55,7 @@ So far, the following **39 projects** have been completed. As I continue buildin
 | 37          | **Random Emoji** | A fun tool that displays random emojis along with their names every time a button is clicked.  |
 | 38          | **Note App**  | A simple note-taking application with features to create, update, and delete notes.           |
 | 39          | **Random Image Generator** | A tool that fetches and displays random images from Unsplash with each button click.           |
+| 40          | **Pokédex**   | A web app that fetches and displays Pokémon data using the PokeAPI, including stats and images. |
 
 ---
 
