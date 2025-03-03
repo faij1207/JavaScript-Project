@@ -58,6 +58,7 @@ So far, the following **41 projects** have been completed. As I continue buildin
 | 40          | **Pokédex**   | A web app that fetches and displays Pokémon data using the PokeAPI, including stats and images. |
 | 41          | **Mouse Event** | A project that tracks and displays real-time mouse coordinates on the screen.                |
 | 42          | **Loan Calculator** | A tool to calculate loan repayments based on principal, interest rate, and loan duration.     |
+| 43          | **BMI Calculator** | A simple tool to calculate Body Mass Index (BMI) based on weight and height inputs.           |
 
 ---
 
