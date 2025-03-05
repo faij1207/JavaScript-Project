@@ -68,6 +68,7 @@ So far, the following **52 projects** have been completed. As I continue buildin
 | 50          | **Animated Navigation** | A smooth and interactive navigation bar with animated transitions for an enhanced user experience. |
 | 51          | **Animated Countdown** | A visually engaging countdown timer with smooth animations for better user interaction.        |
 | 52          | **Drink Water** | A hydration tracker that helps users monitor their daily water intake with interactive visuals. |
+| 53          | **Hoverboard** | A fun interactive hover effect on elements that moves as you hover over them, creating a 2D feel. |
 
 ---
 
