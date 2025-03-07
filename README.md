@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **55 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **56 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -71,6 +71,7 @@ So far, the following **55 projects** have been completed. As I continue buildin
 | 53          | **Hoverboard** | A fun interactive hover effect on elements that moves as you hover over them, creating a 2D feel. |
 | 54          | **Expanding Cards** | A visually appealing effect where cards expand on hover to reveal more content.                |
 | 55          | **Theme Clock** | A dynamic clock with light and dark mode themes that update based on user preference.         |
+| 56          | **Split Landing Page** | A modern landing page with a split-screen design that highlights two different sections interactively. |
 
 ---
 
