@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **57 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **58 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -73,6 +73,7 @@ So far, the following **57 projects** have been completed. As I continue buildin
 | 55          | **Theme Clock** | A dynamic clock with light and dark mode themes that update based on user preference.         |
 | 56          | **Split Landing Page** | A modern landing page with a split-screen design that highlights two different sections interactively. |
 | 57          | **Animated Search Bar** | A stylish search bar with smooth animations that expands and contracts on click.                |
+| 58          | **Auto Text Effect** | A dynamic text animation that types and deletes words automatically in a loop.                 |
 
 ---
 
