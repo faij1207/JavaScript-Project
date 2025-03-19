@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **60 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **61 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -76,6 +76,7 @@ So far, the following **60 projects** have been completed. As I continue buildin
 | 58          | **Auto Text Effect** | A dynamic text animation that types and deletes words automatically in a loop.                 |
 | 59          | **Auto Text Effect Animation** | A smooth typing and deleting text animation that creates an engaging auto-text effect.         |
 | 60          | **Background Slider** | A slideshow effect that changes the background image dynamically with smooth transitions.      |
+| 61          | **Event Keycodes**    | A project that displays keycodes when a user presses a key on the keyboard.                    |
 
 ---
 
