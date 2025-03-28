@@ -12,7 +12,7 @@ Check out the full repository on GitHub: [JavaScript-Project](https://github.com
 
 ## 📚 Current Projects
 
-So far, the following **62 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
+So far, the following **63 projects** have been completed. As I continue building, the remaining projects will be added here to reach the goal of 100 projects. Each project is stored in its own directory for easy access and exploration.
 
 | Project No. | Project Name            | Description                                                                                     |
 | ----------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -78,6 +78,7 @@ So far, the following **62 projects** have been completed. As I continue buildin
 | 60          | **Background Slider** | A slideshow effect that changes the background image dynamically with smooth transitions.      |
 | 61          | **Event Keycodes**    | A project that displays keycodes when a user presses a key on the keyboard.                    |
 | 62          | **Rotating Image Gallery** | An interactive gallery where images rotate in a carousel with smooth transitions.              |
+| 63          | **Button Ripple Effect** | A button click effect that creates a ripple animation for a modern and interactive feel.       |
 
 ---
 
